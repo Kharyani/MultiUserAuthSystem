@@ -1,0 +1,18 @@
+{
+    "Sana": {
+        "email": "sana@gmail.com",
+        "password": "sana123"
+    },
+    "Farah": {
+        "email": "farah@yahoo.com",
+        "password": "2617e295ad39b5948449d6c72be862f539f88ef9ae849b63877b845faa25a394"
+    },
+    "Hania": {
+        "email": "hania2@gmail.com",
+        "password": "0870237bb5808a03aef2a4428bf01a3f5cc990a13910e33c9f69abf75fd366b8"
+    },
+    "Hafsa": {
+        "email": "Hafsa@gmail.com",
+        "password": "4eb10f03985debfd9062e5075000d5bf8e4d9fe61c76fa157a47726acca0fc20"
+    }
+}
